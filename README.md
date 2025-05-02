@@ -26,11 +26,6 @@ The idea for using ultrasound to spot Down syndrome came from realizing that cur
 
 - Get a visual taste of the **Project** experience with our demo [here](https://drive.google.com/drive/folders/14Tcq86ZxeTHEAsqCjf-JsN_0Vn_V28G1).
 
-**Demo Screenshots**
-  - [Sigin](https://github.com/SwarajKhadge/pccoe_hackathon/blob/main/images/signinui.jpeg)
-  - [Report](https://github.com/SwarajKhadge/pccoe_hackathon/blob/main/images/report.jpeg)
-  - [ImageUpoader](https://github.com/SwarajKhadge/pccoe_hackathon/blob/main/images/imageupload.jpeg)
-  - [Detect](https://github.com/SwarajKhadge/pccoe_hackathon/blob/main/images/imageupoaded.jpeg)
 
 ## Presentation
 
