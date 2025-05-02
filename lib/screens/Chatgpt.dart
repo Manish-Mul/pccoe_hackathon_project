@@ -30,7 +30,7 @@ class _ChatScreenPageState extends State<ChatScreenPage> {
   final List<ChatMessage> _messages = <ChatMessage>[];
 
   Future<String> _getAIResponse(List<Map<String, String>> messages) async {
-  final apiKey = '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'; // Replace with your OpenAI API key
+  final apiKey = 'add key here'; // Replace with your OpenAI API key
   final endpoint = 'https://api.openai.com/v1/chat/completions';
   final headers = {
     'Content-Type': 'application/json',
